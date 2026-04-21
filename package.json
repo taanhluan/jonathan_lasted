@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://taanhluan.github.io/jonathan_lasted",
+  "homepage": "https://taanhluan.github.io/jonathanta",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
